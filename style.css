@@ -97,3 +97,6 @@ footer p {
     display: flex;
     flex-wrap: wrap;
 }
+html{
+    width: 100%;
+}
